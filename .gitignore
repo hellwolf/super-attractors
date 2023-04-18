@@ -1,0 +1,8 @@
+/build
+
+# node stuff
+node_modules
+
+# haskell stuff
+*.eventlog
+dist-*
